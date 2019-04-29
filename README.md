@@ -1,6 +1,6 @@
 # EZ Text Mining
-## [Jan Kinne](!https://www.zew.de/MA684-1) 2019
-## [Follow me on Twitter](!https://twitter.com/home) 
+[Jan Kinne](https://www.zew.de/MA684-1) 2019
+[Follow me on Twitter](https://twitter.com/home) 
 
 Easy introduction to text mining using Python's pandas, scikit-learn, and keras.
 
