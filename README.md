@@ -1,4 +1,4 @@
-# EZ_Text_Mining
+# EZ Text Mining
 Easy introduction to text mining using Python's pandas, scikit-learn, and keras.
 
 Prerequisites:
